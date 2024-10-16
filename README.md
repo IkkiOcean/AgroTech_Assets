@@ -1,2 +1,2 @@
-# AgroTech_Image
-hosting images for agrotech
+# AgroTech Assets
+hosting assets for AgroTech
